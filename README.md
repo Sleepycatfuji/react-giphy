@@ -87,6 +87,13 @@ To lint all JavaScript files in the src folder:
 ```
 yarn lint
 ```
+We used Giphy API to look up Gifs
+source: https://www.npmjs.com/package/giphy-api
+
+**Please replace API with your own API key!**
+You can get your own API key here:
+https://developers.giphy.com/
+
 To build and deploy your app to gh-pages branch on the GitHub repo:
 
 Install `gh` : https://cli.github.com/ (not needed for LW alumni)
